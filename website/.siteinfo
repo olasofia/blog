@@ -1,0 +1,10 @@
+INFO = {
+  'site_url': 'http://blog.turnupthecourage.com',
+  'site_title': "Turn Up The Courage",
+  'site_nick': 'turnupthecourage',
+  'site_description': "Facilitating Change",
+  'site_analytics_code': 'UA-90176-7',
+  'site_author': 'Sofia',
+  'site_author_nick': 'olasofia',
+  'site_context': 'olasofia'
+}
