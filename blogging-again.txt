@@ -1,0 +1,14 @@
+==============
+Blogging Again
+==============
+
+:X-Created: [2009-02-22, 23:05]
+
+.. raw:: html
+
+  <div class="float-right">
+  <a href="http://www.flickr.com/photos/olasofia/3177882108/" title="CIMG1515"><img src="http://farm4.static.flickr.com/3376/3177882108_4fba5679e1_m.jpg" alt="CIMG1515" /></a><br />
+  <div class="image-caption">by <a href="http://www.flickr.com/photos/olasofia/3177882108/">olasofia</a></div>
+  </div>
+
+Hello again blogosphere!
