@@ -58,8 +58,6 @@
 	  by <span py:with="author=post.get('__by__', site_author_nick)"><a href="${authors[author][-1]}">${author}</a></span> on <span py:with="created=post['x-created']" class="post-date">${MONTHS[int(created[6:8])]} ${int(created[9:11])}, ${created[1:5]} @ ${created[-6:-1]}</span>
 	</div>
   </div>
-
-<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=rotate&amp;publisher=5e171ed3-cb12-4f49-87ab-b56b2beef908&amp;headerbg=%238d0000&amp;linkfg=%238d0000"></script>
   <div py:content="Markup(unicode(post['__text__'], 'utf-8'))" class="blog-post" />
   <div class="post-footer">
 	<!--
