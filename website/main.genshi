@@ -125,7 +125,7 @@
 	  <span><a href="http://creativecommons.org/licenses/publicdomain/">public domain</a></span>
 	  on
 	  <span py:with="created=info['__updated__']">
-		<a href="http://github.com/tav/blog/commits/master/${info['__name__']}.txt">${created.strftime('%H:%M')}</a>, ${created.strftime('%d %B %Y UTC')}
+		<a href="http://github.com/olasofia/blog/commits/master/${info['__name__']}.txt">${created.strftime('%H:%M')}</a>, ${created.strftime('%d %B %Y UTC')}
 	  </span>
 	</div>
     <div py:if="not info.get('x-created') and not info.get('__type__') == 'py'" class="attention">
