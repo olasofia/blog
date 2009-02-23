@@ -80,6 +80,7 @@
     PAGE_URI = '${page_url}'
   </script>
   <script type="text/javascript" src="${STATIC}/js/init.js" />
+  <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=rotate&amp;publisher=5e171ed3-cb12-4f49-87ab-b56b2beef908&amp;headerbg=%238d0000&amp;linkfg=%238d0000"></script>
 
 </head>
 <body>
