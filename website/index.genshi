@@ -49,7 +49,7 @@
 	  <div class="float-right">
                 <script language="javascript" type="text/javascript">
                   SHARETHIS.addEntry({
-                    title:${repr(post['title'])},
+                    title:"${post['title'].replace('"', r'\"')}",
                     url:'${site_url + '/' + set_name(post)}.html',
                     }, {button:true});
                 </script>
