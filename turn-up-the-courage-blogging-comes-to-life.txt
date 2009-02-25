@@ -6,7 +6,7 @@ Turn Up the Courage blogging comes to life
 
 .. raw:: html
 
-  <div style="float:right;margin-left:10px;margin-bottom:10px;"><a title="photo sharing" href="http://www.flickr.com/photos/unconstructive_bry/2443465483/"><img style="border:solid 2px #000000;" src="http://farm3.static.flickr.com/2371/2443465483_9e40ab1297_m.jpg" alt="" /></a>
+  <div style="float:right;margin-left:10px;margin-bottom:10px;"><a title="photo sharing" href="http://www.flickr.com/photos/unconstructive_bry/2443465483/"><img style="border:solid 2px #000000;" src="http://farm3.static.flickr.com/2371/2443465483_9e40ab1297.jpg" alt="" /></a>
   
   <span style="font-size:.9em;margin-top:0;">
   <a href="http://www.flickr.com/photos/unconstructive_bry/2443465483/">life, or something like it</a>
