@@ -6,12 +6,9 @@ Turn Up the Courage blogging comes to life
 
 .. raw:: html
 
-  <div style="float:right;margin-left:10px;margin-bottom:10px;"><a title="photo sharing" href="http://www.flickr.com/photos/unconstructive_bry/2443465483/"><img style="border:solid 2px #000000;" src="http://farm3.static.flickr.com/2371/2443465483_9e40ab1297.jpg" alt="" /></a>
-  
-  <span style="font-size:.9em;margin-top:0;">
-  <a href="http://www.flickr.com/photos/unconstructive_bry/2443465483/">life, or something like it</a>
-
-  Originally uploaded by <a href="http://www.flickr.com/people/unconstructive_bry/">the half-blood prince</a></span>
+  <div class="float-right">
+  <a href="http://www.flickr.com/photos/unconstructive_bry/2443465483/" title="Changing Reality"><img src="http://farm3.static.flickr.com/2371/2443465483_9e40ab1297.jpg" alt="Changing Reality" /></a><br />
+  <div class="image-caption">"life, or something like it" by <a href="http://www.flickr.com/people/unconstructive_bry/">the half-blood prince</a></div>
   </div>
 
 I am also now blogging!
