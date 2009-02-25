@@ -1,0 +1,10 @@
+==============================================================
+Video announcing the Jan 2009 re-launch of Turn Up the Courage
+==============================================================
+
+:X-Created: [2009-01-20, 18:57]
+
+.. raw:: html
+
+  <object width="480" height="385"><param name="movie" value="http://www.youtube-nocookie.com/v/0EOFVeQoOkU&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/0EOFVeQoOkU&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+
