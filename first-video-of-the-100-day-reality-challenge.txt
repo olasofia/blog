@@ -1,0 +1,9 @@
+========================================
+First Video of The 100 Reality Challenge 
+========================================
+
+:X-Created: [2009-01-23, 18:57]
+
+.. raw:: html
+
+  <object width="480" height="385"><param name="movie" value="http://www.youtube-nocookie.com/v/IeeQBA-bx4c&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/IeeQBA-bx4c&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
