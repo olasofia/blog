@@ -6,8 +6,8 @@ Lilou, making it real, and the challenge of being transparent
 
 .. raw:: html
 
-  <object width="480" height="385"><param name="movie" value="http://www.youtube-nocookie.com/v/mRuRjDiSu7c&hl=en&fs=1&rel=0&color1=0x5d1719&color2=0xcd311b"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/mRuRjDiSu7c&hl=en&fs=1&rel=0&color1=0x5d1719&color2=0xcd311b" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+  <object width="480" height="385"><param name="movie" value="http://www.youtube-nocookie.com/v/mRuRjDiSu7c&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube-nocookie.com/v/mRuRjDiSu7c&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
 
-Meeting Lilou Mace in London and her wonderful idea of bringing the 100 Day Reality Challenge to young people who are in difficult situations. Very exciting how this could help them! I also talk about how scary it can be to be transparent about the reality of moving ideas to action and of making things happen :-) 
+Meeting Lilou Mace in London and her wonderful idea of bringing the 100 Day Reality Challenge to young people who are in difficult situations. Very exciting how this could help them! I also talk about how scary it can be to be transparent about the reality of moving ideas to action and of making things happen.
 
 
