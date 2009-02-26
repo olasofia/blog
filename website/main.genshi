@@ -88,25 +88,9 @@
 <div id="main">
 
   <div id="header">
-	<py:if test="site_nick != 'turnupthecourage'"></py:if>
-    <py:choose test="site_nick">
-    <py:when test="'turnupthecourage'">
       <a href="index.html" title="${site_title}"><img src="${STATIC}/gfx/${site_nick}.png" alt="${site_title}" /></a>
 	  <h2>/ ${Markup(page_title.lower())}<py:if test="subtitle"> &mdash; ${Markup(subtitle.lower())}</py:if> /</h2>
 	  <h1>&nbsp;</h1>
-    </py:when>
-    <py:when test="'plexnet'">
-	  <h1>
-		<a href="index.html" title="${site_title}">${Markup(site_title)}</a> <img src="${STATIC}/gfx/${site_nick}.png" alt="${site_title}" class="absmiddle" /> <a href="${info.get('__name__', 'index.html')}">${Markup(page_title)}</a>
-	  </h1>
-    </py:when>
-    <py:otherwise>
-	  <a href="index.html" title="${site_title}"><img src="${STATIC}/gfx/${site_nick}.png" alt="${site_title}" /></a>
-	  <h1><a href="index.html">${Markup(site_title)}<em>!</em></a></h1>
-	  <h2>${Markup(page_title)}<py:if test="subtitle"> &mdash; ${Markup(subtitle)}</py:if></h2>
-	  <h1>&nbsp;</h1>
-    </py:otherwise>
-	</py:choose>
   </div>
 
   <div class="home-section-info">
