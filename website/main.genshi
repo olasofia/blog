@@ -54,7 +54,6 @@
   <meta name="document-rating" content="general" />
   <meta http-equiv="content-language" content="en" />
 
-  <link rel="icon" type="image/png" href="http://tav.github.com/static/gfx/asktav.png" />
   <link rel="icon" type="image/ico" href="${site_url}/favicon.ico" />
 
   <link rel="alternate" type="application/rss+xml" 
