@@ -54,8 +54,6 @@
   <meta name="document-rating" content="general" />
   <meta http-equiv="content-language" content="en" />
 
-  <link rel="icon" type="image/ico" href="${site_url}/favicon.ico" />
-
   <link rel="alternate" type="application/rss+xml" 
 		title="RSS Feed for ${site_title}"
 		href="http://feeds.feedburner.com/${site_nick}" />

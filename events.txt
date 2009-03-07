@@ -10,5 +10,5 @@ Find Out What's Happening
 .. raw:: html
 
   <div class="center">
-  <iframe src="http://www.google.com/calendar/hosted/turnupthecourage.com/embed?showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=turnupthecourage.com_tjngug4p39r651gncogm06qg60%40group.calendar.google.com&amp;color=%237D0808&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe></div>
+  <iframe src="http://www.google.com/calendar/hosted/turnupthecourage.com/embed?showCalendars=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23FFFFFF&amp;src=turnupthecourage.com_tjngug4p39r651gncogm06qg60%40group.calendar.google.com&amp;color=%23A32929&amp;ctz=Europe%2FLondon" style=" border-width:0 " width="800" height="600" frameborder="0" scrolling="no"></iframe></div>
 
