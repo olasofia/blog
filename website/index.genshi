@@ -73,7 +73,7 @@ Featured Articles:
                 <script language="javascript" type="text/javascript">
                   SHARETHIS.addEntry({
                     title:"${post['title'].replace('"', r'\"')}",
-                    url:'${site_url + '/' + set_name(post)}.html',
+                    url:'${site_url + '/' + set_name(post)}.html'
                     }, {button:true});
                 </script>| <a href="${post['__name__']}.html#disqus_thread" rel="disqus:${site_url + '/' + post['__name__']}.html">Comment!</a>
 	  </div>
