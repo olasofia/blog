@@ -2,7 +2,8 @@
 About Sofia
 ===========
 
-:X-Type: feature
+:X-Created: [2009-03-21, 00:37]
+:X-Type:    Plain
 
 :Abstract:
 
@@ -35,9 +36,7 @@ About Sofia
   href="http://friendfeed.com/olasofia"><img
   src="http://tav.github.com/static/gfx/friendfeed-icon.png" alt="FriendFeed" class="absmiddle" /></a> <a
   href="http://github.com/olasofia"><img
-  src="http://tav.github.com/static/gfx/github-icon.png" alt="GitHub" class="absmiddle" /></a> <a
-  href="http://www.facebook.com/people/Tav-Espian/593997068"><img
-  src="http://tav.github.com/static/gfx/facebook-icon.gif" alt="Facebook" class="absmiddle" /></a>
+  src="http://tav.github.com/static/gfx/github-icon.png" alt="GitHub" class="absmiddle" /></a>
 
 .. contents:: Table of Contents
               :backlinks: none
