@@ -20,27 +20,50 @@
     last_post_name[0] = post['__name__']
     return last_post_name[0]
 
-  featured_articles_list = [item for item in items if item.get('subtitle') and item.get('x-created')]
-
 ?>
 
+<div id="site-welcome">
+<div class="float-right"><img src="http://farm1.static.flickr.com/215/463810343_65569f6374.jpg" alt="" width="200px" height="150px" /></div>
+<div style="font-size:1.4em; margin-bottom: 12px;">Welcome, wherever you are!</div>
+
+<p>If you are interested in deep community building, courageous leadership and social innovation then you have come to the right place. </p> 
+
+<table width="60%"><tr><td width="50%" valign="top">
+Checkout:
+<ul>
+<li><a href="workshops.html">Upcoming Workshops</a></li>
+<li><a href="events.html">Calendar of Events</a></li>
+<li><a href="links.html">Interesting Links</a></li>
+</ul>
+</td><td width="50%" valign="top">
+Featured Articles:
+<ul>
+<!--
+  <li><a href="principles-of-confluence.html">Principles of Confluence</a></li>
+-->
+  <li><a href="evolution-lounge-urban-guerrilla-peer-coaching.html">Evolution Lounge</a></li>
+  <li><a href="inner-wealth-seminar-cut-through-illusion-create-wealth.html">Inner Wealth Seminar</a></li>
+</ul>
+</td></tr></table>
+</div>
+
+<hr class="clear" />
+<!--
 <div py:if="featured_articles_list">
-<div class="section-info" id="all-articles"><strong>Feature Articles</strong></div>
-<table width="100%"><tr>
-<td py:for="column_items in div(sorted(featured_articles_list, key=lambda x: x['__name__']))" valign="top"><ul>
+<table width="100%" style="border-top: 1px solid #ccc; margin-top: 12px;"><tr>
+<td py:for="column_items in div(sorted(featured_articles_list, key=lambda x: x['__name__']))" valign="top" width="50%"><ul>
   <li py:for="item in column_items">
     <a href="${item['__name__']}.html">${Markup(item.get('title') or item['__title__'])}</a> <py:if test="not item.get('x-created')"><span class="index-link-info">[DRAFT]</span></py:if>
 	<br />
 	<span class="index-link-info">
 	  <py:if test="item.get('subtitle')">${Markup(item['subtitle'])}</py:if>
-	  <!--
 	  [<a href="${item['__name__']}.html#disqus_thread" rel="disqus:${site_url + '/' + item['__name__']}.html">Add a Comment</a>]
-	  -->
 	</span>
   </li>
 </ul></td>
 </tr></table>
 </div>
+-->
 <div py:for="post in sorted([item for item in items if item.get('x-created') and not item.get('subtitle')], key=lambda x: x['x-created'], reverse=True)[:40]">
   <hr class="clear" />
   <div class="post-title">
@@ -52,10 +75,9 @@
                     title:"${post['title'].replace('"', r'\"')}",
                     url:'${site_url + '/' + set_name(post)}.html',
                     }, {button:true});
-                </script>
-		<a href="${post['__name__']}.html#disqus_thread" rel="disqus:${site_url + '/' + post['__name__']}.html">Comment!</a>
+                </script>| <a href="${post['__name__']}.html#disqus_thread" rel="disqus:${site_url + '/' + post['__name__']}.html">Comment!</a>
 	  </div>
-	  by <span py:with="author=post.get('__by__', site_author_nick)"><a href="${authors[author][-1]}">${author}</a></span> on <span py:with="created=post['x-created']" class="post-date">${MONTHS[int(created[6:8])]} ${int(created[9:11])}, ${created[1:5]} @ ${created[-6:-1]}</span>
+	  &#187; by <a href="http://blog.turnupthecourage.com">Sofia</a> on <span py:with="created=post['x-created']" class="post-date">${MONTHS[int(created[6:8])]} ${int(created[9:11])}, ${created[1:5]} @ ${created[-6:-1]}</span> <a href="http://creativecommons.org/licenses/publicdomain/"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cc-pd.svg/64px-Cc-pd.svg.png" width="20px" height="20px" alt="Public Domain" class="absmiddle" /></a>
 	</div>
   </div>
   <div py:content="Markup(unicode(post['__text__'], 'utf-8'))" class="blog-post" />
