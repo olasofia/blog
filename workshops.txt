@@ -116,7 +116,7 @@ one that suits you:
       margin-bottom: 40px;
       color:#575757;
       padding: 0 50px;
-      background: transparent url("http://www.webmaster-source.com/wp-content/themes/webmaster-source/images/blockquote.gif") no-repeat 0 0;
+      background: transparent url("http://tav.github.com/static/gfx/blockquote.gif") no-repeat 0 0;
     }
     .float-right { margin-top: 30px; }
     table.booking { margin-top: 30px; }

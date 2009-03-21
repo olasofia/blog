@@ -134,7 +134,7 @@
 	  </select></form><a href="index.html" class="menu-item"
     title="${site_title}">Home</a><a class="menu-item-left"
     href="workshops.html">Upcoming Workshops</a><a class="menu-item-padding" href="calendar.html"><img
-    src="http://www.eyesoftheeast.net/wp-content/uploads/2008/01/calendar_icon.png"
+    src="${STATIC}/gfx/calendar-icon.png"
     class="absmiddle" width="32px" height="32px"
     /></a><a href="archive.html" class="menu-item">Archives</a><span class="menu-item-left"><img alt="" style="vertical-align:middle;border:0" src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" onclick="window.location='http://feeds.feedburner.com/${site_nick}'" /></span><a class="menu-item-padding" href="http://feeds.feedburner.com/${site_nick}" rel="alternate" title="Subscribe to my feed" type="application/rss+xml">Subscribe</a><span
 	class="menu-item-left"><a 
@@ -146,11 +146,7 @@
 
   <div py:if="defined('content')">
 
-    <div id="article-nav" py:if="info.get('x-type', 'blog') == 'blog'">
-	  <script type="text/javascript">
-	    ARTICLE_NAME = '${info['__name__']}';
-	  </script>
-	  <script type="text/javascript" src="index.js?${int(time()/4)}" />
+    <div class="article-nav" py:if="info.get('x-type', 'blog') == 'blog'">
 	</div>
 
 	<h1 class="article-standalone-title">${Markup(page_title)}</h1>
@@ -178,6 +174,13 @@
 	  <br />
 	  <div class="section-info"><strong>${info['__path__']}</strong></div>
 	  <div py:content="Markup(info['__source__'])"></div>
+	</div>
+	<br />
+    <div class="article-nav" py:if="info.get('x-type', 'blog') == 'blog'">
+	  <script type="text/javascript">
+	    ARTICLE_NAME = '${info['__name__']}';
+	  </script>
+	  <script type="text/javascript" src="index.js?${int(time()/4)}" />
 	</div>
 	<br />
 	<div class="section-info" id="comments-section"><strong>Article Comments</strong></div>
