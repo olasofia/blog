@@ -2,10 +2,11 @@
 Co-Flow, A Fluid Model For Collaboration
 ========================================
 
-:X-Type: feature
+:X-Created: [2009-03-25, 17:55]
+:X-Type:    Page
 
 
-**Co-flow: A fluid model of collaboration**. A new way of being has emerged for me over the
+**Co-flow: A Fluid Model For Collaboration**. A new way of being has emerged for me over the
 past 2 years and is based on the work I have been doing all my life. 
 
 This is not a comprehensive description. It is a scratch board for me to compose
@@ -13,7 +14,7 @@ my ideas about it. I intend to keep it updated and to add to it as
 my ideas develop. Of course I will love to do this with others, as has been the
 way so far.
 
-Here is how **Co-Flow -- A Fluid Model of Collaboration** -- came to be:
+Here is how **Co-Flow -- A Fluid Model For Collaboration** -- came to be:
 
 
 * `Evolution Lounge and Pioneers of Change`_ It began with my
