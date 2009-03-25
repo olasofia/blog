@@ -1,6 +1,584 @@
-========================
-Principles of Confluence
-========================
+========================================
+Co-Flow, A Fluid Model For Collaboration
+========================================
 
-Flowing Together
-~~~~~~~~~~~~~~~~
+:X-Type: feature
+
+
+**Co-flow: A fluid model of collaboration**. A new way of being has emerged for me over the
+past 2 years and is based on the work I have been doing all my life. 
+
+This is not a comprehensive description. It is a scratch board for me to compose
+my ideas about it. I intend to keep it updated and to add to it as
+my ideas develop. Of course I will love to do this with others, as has been the
+way so far.
+
+Here is how **Co-Flow -- A Fluid Model of Collaboration** -- came to be:
+
+
+* `Evolution Lounge and Pioneers of Change`_ It began with my
+  my experiences in self-organisation at a group level with `Pioneers Of Change <http://www.pioneersofchange.net>`_,
+  2002 to 2007 and my coaching work that happened in parallel. In Poc we experimented explicitly with Self-Organisation - the
+  structure of Pioneers of Change itself is chaordic. I became aware of the
+  difficulties involved in self-organisaton and I learnt a lot from these
+  experiments in which I also integrated my coaching practices. It led me to launch
+  `Evolution Lounge <the-story-behind-evolution-lounge.html>`_ :
+  the collective as Coach/Facilitator.
+
+* `Michel Bauwens and P2P`_ Something clicked into place in my brain in early 2006 when i
+  first encountered Michel Bauwen's seminal p2p essay. It addressed the sea
+  changes afoot in society at the level of governance, ownership and
+  production. I understood *cognitively* what I was feeling *intuitively* about
+  the world, what I had been experiencing with pioneers of change and what was
+  alive in Evolution Lounge. ("The collective as coach") Michel Bauwens work went further in describing a model by
+  which self-organisation can be nurtured; highlighting the minimal principles.
+ 
+* `Removing Abstract Layers: Direct Perception and Byron Katie`_ Another aspect
+  of Co-Flow emerged as a result of stumbling on The Work of Byron Katie in 2005
+  and then attending her School in April 2007. I realised the importance of
+  Direct Perception and the consequence of that as a practice at a group level.
+  Co-flow did not have a name them but I knew that direct perception needed to
+  be integrated somehow. Byron Katie also enabled me to understand the benefit
+  of fuzzy logic as applied to individual minds. I saw how The Work is a
+  technique to go beyond one's own blind spots and how the principles behind it
+  could be applied to groups. I was playing with this already in Evolution
+  Lounge but it was not yet clear to me how this could scale up in society.
+
+* `Flocking, Confluence and David Pinto`_ The Co-Flow model crystallised further for me
+  in August 2007 when the 'Confluence Model' was articulated by David Pinto.
+  Confluence outlines the simple human behaviours
+  needed to exhibit flocking. It encourages direct perception at a group level
+  and yet *depends* on direct perception at an individual level. It is fundamentally about
+  self-organisation, minimal and was incredibly helpful in explaining why groups
+  fail to collaborate. David has written his ideas in his book called `Pulse <http://www.lulu.com/content/paperback-book/pulse/4602415>`_ and our work on
+  Confluence in Sep-Dec 2007 helped to outline a technology platform that could encourage
+  flocking behaviour.
+
+* `Decisioning: A Fluid Model for Decision Making`_ I went on to think about
+  decision making as an continuous activity rather than an artificially-isolated
+  event. The missing link in this puzzle was the integrating of group and
+  individual awareness. I realised that this is what I had been working for a
+  long time. Most organisations artificially separate these two aspects. Key to
+  Co-Flow is the edges between the two -- group awareness and individual
+  awareness -- and this helped me to better understand decisions in groups, and
+  the notion of **decisioning** as opposed to 'decision-making' emerged. I
+  specified a mechanism by which decisioning could be encouraged
+  technologically. (see videos below)
+
+* `Signalling Changing Energetic State to Each Other Using K`_ I described the
+  dynamic by which decisioning happens; as a signalling of changing energetic
+  states. I introduced the notion of k -- a measure of individual energetic
+  state, and K -- a measure of the energetic state of a group. This was
+  finally a way to couple group awareness/individual awareness to behaviour: K
+  enables the feedback loops between the individual and group behaviour to be
+  more visible. This comes to life in Evolution lounge Lounge and in the applied
+  U-Process workshop. In my work as a career coach and community builder these principles drive the sculpting and integrating of individual and group purpose over the last 5
+  years. It all came together and K is a simple link between the two.
+
+**Co-flow** is essentially a fluid metaphor for our life. And can be applied to
+collaboration. It is not yet 'complete'!
+  
+Incidentally it helps to understand `Twitter <http://www.twitter.com>`_ -- the micro messaging system. I
+believe Twitter is part of the transition away from a mechanistic interpretation
+of life and towards a fluid one.
+
+
+.. raw:: html
+
+  <br />
+
+Evolution Lounge and Pioneers of Change
+---------------------------------------
+
+During 2002-2007 in `Pioneers of Change <http://www.pioneersofchange.net>`_ we
+experimented with applying living systems theories to organisations. Pioneers of
+Change itself was designed as a chaordic organisation. (Chaordic imples that the
+activity is focused in the realm between chaos and order - where life is at its most
+creative)
+
+The governing council was self-selecting group of around 30 or so people with no
+explicit leaders. There was a partially funded executive group (called The
+Cultivation Team) that was there to serve the whole network. We learnt about
+nurturing self-organisation and encountered the tension between the need for
+consensus and the need for individual freedom to act and to be able to move
+things forward.
+
+We organised events using the chaordic model. The experiences were rich, diverse
+and reflected a true learning community.
+
+One of the highlights for me was when a conflict flared up in a group of 50 of
+us - all facilitators of different kinds. It was uncomfortable at the time but
+for years afterwards we were absorbing the learning from that experience.
+
+.. class:: sidebox
+
+  In Evolution Lounge the direct perception and signalling of energetic states
+  during the exercise means that the group is tuned in to itself and can more
+  accurately pinpoint where and how to intervene in each person's case.
+
+I found that capacity-building individuals was a key part of effective
+self-organisation. If people are not autonomous agents, then this leads to a
+very weak group where leadership is only associated with a few individuals. Whereas
+when a group is composed of people who are autonomous in their thinking and
+behaviour, there will be higher levels of distributed leadership. The challenge
+then becomes the ability for the group to still work in some way as a whole.
+
+`Evolution Lounge <the-story-behind-evolution-lounge.html>`_ operates with small
+groups. It enables the group and the individual awareness to be integrated. It
+encourages the wisdom to emerge from anywhere - in the group and in any form -
+tapping into movement, chaos and physical context.
+
+The core of Evolution Lounge - the collective presencing part is a practice in direct
+perception, and signalling. Hence it leads to a state of collective presence --
+an ideal pre-condition for flocking. The beauty of this collective presencing
+experience is that the collective can now realistically be coach-facilitator.
+Direct perception and signalling of energetic states during the exercise means
+that the group is tuned in to itself and can more accurately pinpoint where and
+how to intervene in each person's case.
+
+
+Michel Bauwens and P2P
+----------------------
+
+`Michel Bauwens <http://p2pfoundation.net>`_ is a modern-day philosopher who has articulated the change that
+has been a foot since the explosion of the internet and related technologies. 
+
+I read his `foundational essay
+<http://integralvisioning.org/article.php?story=p2ptheory1>`_ in 2006. I think
+that my brain literally leapt in consciousness as I read it. 
+
+it helped to show how self-organisation needs the right kind of governance - and
+his model articulates p2p Governance, ownership and production. In p2p governance, *maximising options
+available* is the aim. It is anti-credentialist: anyone can put forward an
+option. In contrast to the a priori selection of options, in p2p options are
+selected a posteriori. Their validation is communal. I.e. acceptance happens
+after the fact or execution. Also, in contrast to panoptism, we have holoptism:
+where everything is visible to everyone. It is not possible for me to summarise
+it properly in two paragraphs and I recommend reading the `foundational essay
+<http://integralvisioning.org/article.php?story=p2ptheory1>`_. There is a wiki
+dedicated to sharing knowledge on p2p. The topic is huge, well re-searched and an
+asset to our society. I thank Michel Bauwens on his work in this realm.
+
+The open-source models of software production have helped me to understand some
+of the dynamics that occurred within Pioneers of Change from 2006 onwards. To
+start with we had an open-source model of knoweldge sharing around process
+design. The need further down the line to finance the activity of the executive
+group led to the creation of a sub group of Associates which operated with
+different principles to the network. Tensions arose between the sub group and
+larger group and the nature of the network as a whole underwent a strong shift.
+I asked Michel Bauwens to comment on my experience and based on my rough
+articulation of the situation he indicated the social contract between the sub
+group and the main group seemed not to have been successfully structured. The
+larger group must perceive the benefits of the existence of the commercial group
+as worthwhile enough for its activities to be commercialised. The preception of
+what is being received must outweight what is being given. This is a
+conversation which is very important and which did not happen.
+
+.. raw:: html
+
+  <br />
+
+Removing Abstract Layers: Direct Perception and Byron Katie
+-----------------------------------------------------------
+
+An aspect of this model of collaboration is about direct perception. It is
+commonly understood that we tend to filter what we see. But what we also do is
+add interpretation. 
+
+Interpretation can be useful but it can skews the simplicity of what
+we are looking at. This is the root of self-deception.
+
+Imagine that we are looking at everything through a lens. If the lens is
+dirty then we are not seeing things as they are. If we do not know that there is
+dirt on the lens then we may appear slightly deluded to others.
+Unless they too have the same kind of dirt on their lens.
+
+Most human beings do not perceive things directly. It takes a very clear mind to
+do so. The mind can be trained however, and this is what buddhists do.
+
+**So how does this translate to the collective?**
+
+`Byron Katie's model <http://thework.com>`_ helps people to remove the extra layer of abstraction. It
+enables people to clean their lens. When you are working with a bunch of people
+who are ALL doing this very skillfully it is an incredible experience. The usual
+issues with groups that so quickly descend into deep rifts arising out of
+trivial issues is experienced to a lesser degree.
+
+The collective has a lens. There are issues that are conscious to the group.
+There are issues that are not conscious to the group. When the wisdom of each
+person is integrated into the whole, you could say that the group is conscious
+and the lens is clean. In a practice called Deep Democracy, the practice of
+integrating individual wisdom into a group leaves a group to be more conscious. 
+
+I belive that `The Work of Byron Katie <http://www.thework.com>`_ can be applied
+at a collective level. Just as one can identify the story of an organisation,
+one could identify the 'stressful thoughts' of an organisation. These thoughts
+could then be 'worked' as a group. It is not a science and I have not tested
+this, but it is something that I would be very interested in doing.
+
+To conclude: if individuals clean their lens, then the lens of the collective
+will also be cleaner. For example, If I as an individual do not take gossip to
+be true, if I question its truth and I only speak what I know to be true for me,
+then I will not be adding to the baggage of the group -- it will stop with me.
+If I deal with my judgements of people as soon as they are problematic for me,
+then I avoid draining the group of the issues that may arise as a result of my
+judgements. We can refrain from colluding with perceptions that are stressful
+for people.
+
+Perceiving things directly is helpful for sane interchanges and The Work is a tool that helps
+people to do this. 
+
+ 
+.. raw:: html
+
+  <br />
+
+Flocking, Confluence and David Pinto
+------------------------------------
+
+.. raw:: html
+
+  <object width="640" height="505"><param name="movie"value="http://www.youtube.com/v/oCXC3cvRk20&hl=en&fs=1"></param><param
+  name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
+  value="always"></param><embed
+  src="http://www.youtube.com/v/oCXC3cvRk20&hl=en&fs=1"
+  type="application/x-shockwave-flash" allowscriptaccess="always"
+  allowfullscreen="true" width="640" height="505"></embed></object>
+
+I created this video in December 2007 after I caught a flock of birds in the
+corner of my eye - their flight was so beautiful. I watched them for a good 6
+minutes, filming them and wondering if I could anticipate their movement. It was
+entrancing.
+
+I then realised that it was the perfect model to explain the idea of Confluence,
+a model of collaboration that David Pinto articulated and on which we
+worked extensively Sep-Nov '07 to specify the underlyings of a
+technological confluence platform. Aspects of this then got integrated into `Bootstrap
+<http://tav.espians.com/espra-bootstrap.html>`_ and the models of tav's Espra
+since bootstrap. However, David wrote up his ideas and can be read in his book
+`Pulse <http://www.lulu.com/content/paperback-book/pulse/4602415>`_ 
+
+The confluence model has three sections:
+
+* intentions/projections
+* coupling
+* conditions. 
+
+The first is about sharing the daily intentions with other people that one is working
+with. The subtlety is that it is for other people more so than for oneself.
+Also, rather than the notion of projects, we have projections. (Fluid metaphor.) This means that we can
+work towards a rough idea of what the future vision is, while not having to
+reach consensus before we do it. It means that we state a rough purpose upfront
+but that we allow ourselves also to discover part of the purpose as we go along!
+It is an evolutionary process-based model. 
+
+The second point is coupling. This is about being able to skills-match abased on
+our own definition of what we do. It is also based on the idea that it is
+helpful to carry out small projects with each other before we try big ones. So that we an test our capacity
+to work with each other and that we base our team decisions on reality. Fire and
+motion -- we aim, fire and then we move. We do not try to get there with one big
+aim and one big shot. And this is applied to our understanding of each other and
+being able to match the right people with each other. We do not define groups.
+Rather groupings. This acknowledges the fact that the notion of a hard group can
+be misleading. The group is actually simply the people who have active intentions for a
+certain projection. This grouping will change from day to day. Hence it is
+important not to think that the whole group is active and to be deluded by large
+group sizes in social networks - which often hold little meaning. 
+
+The third element is about being sensitive to the conditions- the wider context in
+which we operate. For me this is about timing and sensitivity to what is
+happening. 
+
+David and I worked on it further, then also intermittently with `Matt
+Cooperrider <http://www.facebook.com/people/Matt-Cooperrider/819596>`_, `tav
+<http://tav.espians.com>`_ and `Mamading Ceesay
+<http://evangineer.agoraworx.com/blog/entries.html>`_. There were hopes of
+getting it coded but then but tav integrated some of the ideas into his bigger vision -- Espra, and we
+put the Confluence Model Specification to one side.
+
+**One sentence at a time**
+
+A small group of us have however practiced and applied
+different aspects of the model. The principles are very much alive. One example
+is David's idea of the "one sentence at a time" conversation. Pure
+micro-messages communication. I found it very helpful for holding difficult
+conversations. Tav created a `small application
+<http://tav.espians.com/oneline.html?next=1>`_ in twitter to enable the
+conversation to be harvested. Lesley Williams and Alexander Bustamante also
+began to looked at the notion of Pioneers of Change as 'Confluence Lab'. We now
+speak in terms of projections, share intentions daily and awareness of external
+conditions. Each one of us has our own project
+
+**A note on Twitter and Intentions**
+
+It has been fascinating to see the emergence of twitter in the mainstream. A
+year ago this was the kind of messaging system we were imagining whilst working
+on the confluence model. It would have been where we enter out daily
+intentions. The description of daily intentions are micro messages. However,
+instead of status updates like on facebook, they are about what we *intend* to
+make happen today. The focus is in the now.
+
+Overall, the confluence system helps us to flock. To fly together as one. **It
+helps us to stay focused on what is alive in the project** More of our time is spent in
+the NOW as opposed to in the future. This means that there is less need less to get our
+picture of the future exactly right.
+
+**24weeks**
+
+The confluence model emerged after the fallure of the `24 weeks project
+<http://wiki.espians.com/24_weeks>`_ in its primary aim. The beauty of this
+failure was that, just as with the 50-person conflict in Egypt, the learnings
+extend far beyond the duration of the project.
+
+**Confluence embodied in people**
+
+What was attempted during 24weeks was very brave. In many ways it attracted
+certain types of individuals that embodied a certain way of being -- I dare to
+say, a more fluid one and one from which I learnt a great deal. I noticed common
+patterns in this collective: less emphasis on consensus-seeking and more flocking-like
+behaviour. This was particularly embodied in the individuals that remained on
+the project. It made me think of the capoeira model - each individual moves
+autonomously - we move as one. 
+
+.. raw:: html
+
+  <object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/0aAbZM88MUQ&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/0aAbZM88MUQ&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+
+24 weeks had fault lines which we have analysed ad infinitum. It also had
+genius. One place it did work was in this aspect: People did not ask to be old
+what to do -- they did it. David Pinto helped to sustain the minimal awareness
+of what others were doing. His role was to point to the obvious. He would
+regularly ground the collective by doing so, drawing attention to the NOW.
+
+David Pinto has very much helped me to understand how to apply the notion of
+direct perception at a collective level. He focuses on bringing the collective
+attention to the simplest aspect of what is happening now. It is at this point
+that life is flowing through any project. He exposes the unnecessary mental
+loops that people are going through at a collective level and also at an
+individual level. He has a very minimal approach and the subtlety of his work is
+often missed. Of course sometimes - like all of us -he is not aware of his own
+when his own lens is slightly murky but this is yet another interesting point:
+he recently declared that he is determined not to reach a state of mastery
+unless he does it WITH others. He is putting himself in a high state of
+interdependence. At a certain level therefore, he is living the reality of
+flocking.
+
+`tav <http://tav.espians.com>`_ is also another person that embodies a very
+streamlined way of doing things. I would even say his real surname should be
+"streamline" :-) as he lives this principle at many levels. It has meant that
+the systems he is developing tend to free people from unquestioned and
+unnecessary practices. He has a huge range, a deeply multi-disciplined approach
+and his larger project `Espra
+<http://wiki.espians.com/24_weeks#Espra_-_an_Evolutionary_Tool>`_ is a vision of
+a possible future for collaboration and the world. It is hugely ambitious and
+will need people to flock around it, to enable the creativity of many people to
+flow as if one mind and one social body.
+
+ 
+.. raw:: html
+
+  <br />
+
+Decisioning: A Fluid Model for Decision Making
+----------------------------------------------
+
+I went on to develop the idea of a 'decisioning' system, linking decision making
+to flows in a river - as something that is happening actually all the time. In
+fact, the word **decisioning, rather than decision-making** is used --
+reflecting the idea that decisions are happening by themselves all the time. In
+groups, most of the time we don't really 'make' decisions - they are just the
+co-existence of lots of small actions taking place. What we need to do is to be
+aware of the right moment to focus people's attention. See the video below for
+more.
+
+Part 1
+
+.. raw:: html
+
+  <object width="640" height="505"><param name="movie" value="http://www.youtube.com/v/-Xat4MfeOnU&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/-Xat4MfeOnU&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="505"></embed></object>
+
+Part 2
+
+.. raw:: html
+
+  <object width="640" height="505"><param name="movie"
+  value="http://www.youtube.com/v/3BOd2Xqmubg&hl=en&fs=1"></param><param
+  name="allowFullScreen" value="true"></param> <param name="allowscriptaccess"
+  value="always"></param><embed
+  src="http://www.youtube.com/v/3BOd2Xqmubg&hl=en&fs=1"
+  type="application/x-shockwave-flash" allowscriptaccess="always"
+  allowfullscreen="true" width="640" height="505"> </embed></object><br /> <br /> <br/>
+
+
+**Example of Decisioning**
+
+An example of where I have recently experienced this again was when I attended
+the `Manifesto for Female Social Innovators
+<http://ogunte.com/innovation/events/203-manifesto-for-female-social-innovators>`_,
+organised by Servane Mouazan of `Ogunte <http://www.ogunte.com>`_. During the
+event I was expecting Servane to have set up a process by which we would arrive
+at a manifesto in the more traditional sense of a 'Manifesto'. What actually happened
+was that people expressed the things that were committed to doing. This is
+what Servane had meant by a manifesto.
+
+It clicked -- it was another example of **decisioning**. Rather than the group
+explicitly agreeing on something consensus-based, many different action impluses
+were expressed in an open manner to all. If each action impulse is a vector (an
+arrow indicating movement and direction) then you have a situation where the
+group has self-organised the direction of the flow of energy into specific
+channels.
+
+The manifesto is a decision -- by means of the granular intention to act. The
+shape of the manifesto is the shape of the collective action that ensues from
+this intention.
+
+The beauty of this is that the decision is then absolutely the same as what we
+say it is. Description stays close to reality. Very important!
+
+Traditionally when the group 'decides' to do something in the normal sense, it
+can be the case that the decision is not made democratically and therefore the
+channels of flow that are set up are imaginary. Some individuals may have no
+real intention of complying. In that case there is no real decision. What will
+happen is very distant from what is claimed will happen. If however, the action
+is defined at this granular level, then the collective action that ensues will
+itself define the decision that is being made. The collective does not stay in a
+state of blindness. The collective is not guided by a false decision.
+
+**How decisioning happened**
+
+*  Servane set a tone: "No more talk about the glass cieling. Let us just get on
+   with it". She also had put her 'projection' of the Manifesto up for all to see.
+
+*  We had a decisioning cycle -- for the duration of the event. People expressed
+   their positive intentions in regard to this manifesto. 
+
+**Thus the shape of the decision was revealed**
+
+What Servane demonstrated was facilitatory leadership. She expressed the siren
+call -- "Contribute to the manifesto for female social entrepreneurs!" And then
+she facilitated the natural impulses that arose out of that siren call,
+encouraging them to be expressed; capturing them and displaying them for all to
+see. Thus she was maximising openness, accountability -- to self and others.
+
+**Witnessing and allowing**
+
+Another way to look at it is as though the group stands back and notices where
+its action impulses lie as one collective -- the shape and pattern of action
+right before its eyes, and exclaims "oh THAT is what we are going to do". It
+witnesses and encourages life within it rather than artificially states what
+will happen.
+
+It is effortless and does not fight reality. It works with it. 
+
+.. raw:: html
+
+  <br /> <br /> <br />
+
+Signalling Changing Energetic State to Each Other Using K
+---------------------------------------------------------
+
+.. raw:: html
+
+  <div style="float:right;margin-left:10px;margin-bottom:10px;"> <a href="http://www.flickr.com/photos/pagedooley/2694961877" title="photo
+  sharing"> <img src="http://farm1.static.flickr.com/3019/2694961877_4708aeeda1_m.jpg" alt="" style="border:solid 2px #FFFFFF;" /> </a><br /><span
+  style="font-size:.9em;margin-top:0;"> <a
+  href="http://www.flickr.com/photos/pagedooley/2694961877/"> </a> by <a
+  href="http://www.flickr.com/people/pagedooley/"> kevin dooley </a> </span> </div>
+
+In order for people to flow better together we need to see the feedback and feedforward loops between individual and group behaviour.
+
+What occurred to me was the idea of **K as a signalling mechanism** 
+
+K would be a number, something between 0 and 10 to indicate 'how you are'. It is used to
+signal a state of being; an energetic state.
+
+One of the problems we have is that people are not always great at articulating their state of
+being. Some are better than others and it has very real consequences. 
+
+I have found that it is not that people don't want to - it is just that they are
+simply not used to it and can find it uncomfortable. So to be able to signal their
+
+.. raw:: html
+
+  <div style="float:left;margin-right:10px;margin-bottom:10px;"> <a
+  href="http://www.flickr.com/photos/jimmydavao/2965024699/" title="photo
+  sharing"><img
+  src="http://farm4.static.flickr.com/3284/2965024699_9f9e9e2af3_m.jpg"
+  alt=""style="border:solid 0px #000000;" /></a><span style="font-size:.9em;margin-top:0;"><br /> <a href="http://www.flickr.com/photos/jimmydavao/2965024699/"></a>by <a href="http://www.flickr.com/people/jimmydavao/">jimpg2</a><br /></span> </div>
+
+energetic state without having to go into a lot of verbal detail about emotions, could mean that
+you can get a rough sense of where everyone is in terms of their energy. In
+actual practice, somehow the use of a number seems to serve as a trigger for people to be able to then say
+more. It takes the pressure off and allows people to expand a little further
+after stating a number.
+
+**Why would you want to know how people are?**
+
+This is practical useful information when working closely with other people. It can be vital. I describe how it can
+be used to understand the overall energetic state of a group, in the videos above. A simple
+signal when there is little time for anything else can increase the awareness of
+the group as to its overall state by a critical amount. It can capture weak
+signals that need attention long before they become dangerous to the existence
+of the group or viability of the mission.
+
+Of course, a group has different properties to those of the individual
+entities (people). So we cannot say that the group is an exact sum of all the
+individuals. But to know what the individual states are can be very
+useful and should be somehow taken into account and integrated into our awareness.
+
+Direct perception and signalling of energetic states during the evolution
+lounge- collective presencing exercise means that the group is tuned in to
+itself and can more accurately pinpoint where and how to intervene in each
+person's case. The beauty of the collective presencing experience in Evolution
+Lounge is that the collective can now realistically be coach-facilitator.
+
+K facilitates Decisioning. During a decision cycle it enables the group to be
+aware of where the action impulses lie and how strong they are.
+
+
+**Decisioning and GTD**
+
+I happened to bump into two people that are working on David Allen's GTD
+system - except at a group level. They were very interested in this topic and
+realised that an aspect of the Confluence level was missing for them. They were
+looking at stymergistic behaviour. When I described the micro message - the
+daily intention, they realised that it was going a level beyond stympergistic behaviour- since it was
+not just about externalising the current STATE. It was about
+externalising the inner MOVEMENT. I.e. these micro messages are actually micro
+VECTORS. K describes the virility of the vector.
+
+**Decisioning and Twitter**
+
+Twitter is the technological reason why this micro-messaging and signalling is
+now a realistic possibility. And this is why the chance to confluence is now
+more available. I think that the biggest challenge is still the one of direct
+perception. Which is why I am working on tools to enable each other to achieve
+it. It involves going past the blind spot, at both the individual and group
+level. And it means understanding reality as a rather fuzzy thing in the mind.
+Fuzzy is not the same as confused. Fuzzy, as I use the term, involves being energetically
+calm. Confused means being energetically stressed.
+
+
+**Conclusion**
+
+As a conclusion, the Co-Flow model is about a fluid model of life. It is
+sometimes a soup, sometimes a rushing stream. By default we exist in this fluid
+form. From time to time sold structures emerge. A phase change happens.
+Structures are born and something quite tangible appears. If the system is
+healthy then when the structure no longer serves its purpose, it will die.
+Perhaps the next version of the structure will replace the first one. 
+
+Projections will sometimes give rise to projects. Decisions ad Decision Making
+are solid structured states that are sometimes needed. Decisioning is the fluid
+activity that is happening all along. P2P governance should give us better
+models for large-scale decision-making that are seen as legitimate on a mass
+scale. We need to enable individuals to have autonomy in order for the
+collective to be vital. Direct perception will enable our interventions to be
+more precise.
+
+Open Questions:
+
+
+
+Please do get in touch if you have interest in this topic. It is an ongoing stream of thought and practice in our work and would be excellent to share with you.
