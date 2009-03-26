@@ -217,11 +217,12 @@ we are in, we can pick out the underlying beliefs and work them.
 There is the also the possibility that something is true and not true at the
 same time. Once we question our thoughts we can go beyond the mind and therefore
 beyond duality. See the video below for one woman's story of this. This fuzzy
-logic at an individual level enables peopel to go beyond hard positions and stay
+logic at an individual level enables people to go beyond hard positions and stay
 very open to a variety of perspectives.
 
 .. raw:: html
 
+  <br />
   <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/UyyjU8fzEYU&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UyyjU8fzEYU&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
 
 
