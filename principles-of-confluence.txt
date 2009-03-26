@@ -193,52 +193,80 @@ conversation which is very important and which did not happen.
 Removing Abstract Layers: Direct Perception and Byron Katie
 -----------------------------------------------------------
 
-An aspect of this model of collaboration is about direct perception. It is
+An aspect of this model of collaboration is direct perception. It is
 commonly understood that we tend to filter what we see. But what we also do is
-add interpretation. 
+add interpretation.
 
-Interpretation can be useful but it can skews the simplicity of what
-we are looking at. This is the root of self-deception.
+Interpretation can be useful but it can skews the simplicity of what we are
+looking at. This is the root of self-deception.
 
-Imagine that we are looking at everything through a lens. If the lens is
-dirty then we are not seeing things as they are. If we do not know that there is
-dirt on the lens then we may appear slightly deluded to others.
-Unless they too have the same kind of dirt on their lens.
+Imagine that we are looking at everything through a lens. If the lens is dirty
+then we are not seeing things as they are. If we do not know that there is dirt
+on the lens then we may appear slightly deluded to others. Unless they too have
+the same kind of dirt on their lens!
 
 Most human beings do not perceive things directly. It takes a very clear mind to
 do so. The mind can be trained however, and this is what buddhists do.
 
+The Work of Byron Katie is a another tool for doing this. Stress comes from attachments
+to thoughts that are stressful. Ultimately all stressful thoughts can be questioned. Once
+this is realised, it is difficult to consciously hold onto any stressful thought. It is
+harder to let go of subconscious thoughts but once we identify the stories that
+we are in, we can pick out the underlying beliefs and work them. 
+
+There is the also the possibility that something is true and not true at the
+same time. Once we question our thoughts we can go beyond the mind and therefore
+beyond duality. See the video below for one woman's story of this. This fuzzy
+logic at an individual level enables peopel to go beyond hard positions and stay
+very open to a variety of perspectives.
+
+.. raw:: html
+
+  <object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/UyyjU8fzEYU&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/UyyjU8fzEYU&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+
+
 **So how does this translate to the collective?**
 
 `Byron Katie's model <http://thework.com>`_ helps people to remove the extra
-layer of abstraction. It enables people to clean their lens. When you are
-working with a bunch of people who are ALL doing this very skillfully it is an
-incredible experience. The usual issues with groups that so quickly descend into
-deep rifts arising out of trivial issues is experienced to a lesser degree.
+layer of abstraction. It enables people to clean their lens of perception. When
+you are working with a bunch of people who are ALL doing this very skillfully it
+is an incredible experience. The usual issues with groups that so quickly
+descend into deep rifts arising out of trivial issues is experienced to a lesser
+degree.
 
-The collective has a lens. There are issues that are conscious to the group.
-There are issues that are not conscious to the group. When the wisdom of each
-person is integrated into the whole, you could say that the group is conscious
-and the lens is clean. In a practice called Deep Democracy, the practice of
-integrating individual wisdom into a group leaves a group to be more conscious. 
+For example, If I as an individual do not take gossip to be true, if I question
+its truth and I only speak what I know to be true for me, then I will not be
+adding to the issues of the group -- they will stop with me. If I deal with my
+judgements of people as soon as they are problematic for me, then I avoid
+draining the group with the issues that may arise as a result of my judgements.
+We can refrain from colluding with perceptions that are stressful for people.
+
+The collective also has a lens of perception. There are issues that are
+conscious to the group and issues that are not conscious to the group. When the
+wisdom of each person is integrated into the whole, you could say that the group
+is fully conscious and the lens of perception is clean. In a practice called
+Deep Democracy, the practice of integrating individual wisdom into a group
+leaves a group to be more fully conscious.
+
+Resistance to reality, judgement of other people and scapgoating of individuals
+are all destructive practices, the impact of which the groups remain less
+conscious. Direct perception is an antidote.
 
 I belive that `The Work of Byron Katie <http://www.thework.com>`_ can be applied
-at a collective level. Just as one can identify the story of an organisation,
-one could identify the 'stressful thoughts' of an organisation. These thoughts
-could then be 'worked' as a group. It is not a science and I have not tested
-this, but it is something that I would be very interested in doing.
+at a collective level. Just as one can identify the various stories that run
+through an organisation, one can identify the 'stressful thoughts' of an
+organisation. These are the assumptions underneath the stories. For example, 
+"our organisation is about to collapse", or "it is not safe to say what you
+think in this organisation" or "people working here are lazy". These thoughts could then be 'worked' as a group. 
 
-To conclude: if individuals clean their lens, then the lens of the collective
-will also be cleaner. For example, If I as an individual do not take gossip to
-be true, if I question its truth and I only speak what I know to be true for me,
-then I will not be adding to the baggage of the group -- it will stop with me.
-If I deal with my judgements of people as soon as they are problematic for me,
-then I avoid draining the group of the issues that may arise as a result of my
-judgements. We can refrain from colluding with perceptions that are stressful
-for people.
+The point is not to deny reality. The point is to be very accurate about what is
+actually true and then to act from a point of power. 
 
-Perceiving things directly is helpful for sane interchanges and The Work is a
-tool that helps people to do this.
+To conclude: if individuals clean their lens of perception, then the lens of the
+collective will also be cleaner. The collective lens can also be cleaned by
+working the underlying beliefs of the organisational stories.Perceiving things
+directly is helpful for sane interchanges and The Work is a tool that helps
+people to do this.
 
  
 .. raw:: html
@@ -263,12 +291,12 @@ minutes, filming them and wondering if I could anticipate their movement. It was
 entrancing.
 
 I then realised that it was the perfect model to explain the idea of Confluence,
-a model of collaboration that David Pinto articulated and on which we
-worked extensively Sep-Nov '07 to specify the underlyings of a
-technological confluence platform. Aspects of this then got integrated into `Bootstrap
+a model of collaboration that David Pinto articulated and on which we worked
+extensively Sep-Nov '07 to specify the underlyings of a technological confluence
+platform. Aspects of this then got integrated into `Bootstrap
 <http://tav.espians.com/espra-bootstrap.html>`_ and the models of tav's Espra
 since bootstrap. However, David wrote up his ideas and can be read in his book
-`Pulse <http://www.lulu.com/content/paperback-book/pulse/4602415>`_ 
+`Pulse <http://www.lulu.com/content/paperback-book/pulse/4602415>`_
 
 The confluence model has three sections:
 
@@ -311,13 +339,12 @@ put the Confluence Model Specification to one side.
 
 **One sentence at a time**
 
-A small group of us have however practiced and applied
-different aspects of the model. The principles are very much alive. One example
-is David's idea of the "one sentence at a time" conversation. Pure
-micro-messages communication. I found it very helpful for holding difficult
-conversations. Tav created a `small application
-<http://tav.espians.com/oneline.html?next=1>`_ in twitter to enable the
-conversation to be harvested. Lesley Williams and Alexander Bustamante also
+A small group of us have however practiced and applied different aspects of the
+model. The principles are very much alive. One example is David's idea of the
+"one sentence at a time" conversation. Pure micro-messages communication. I
+found it very helpful for holding difficult conversations. Tav created a `small
+application <http://tav.espians.com/oneline.html?next=1>`_ in twitter to enable
+the conversation to be harvested. Lesley Williams and Alexander Bustamante also
 began to looked at the notion of Pioneers of Change as 'Confluence Lab'. We now
 speak in terms of projections, share intentions daily and awareness of external
 conditions. Each one of us has our own project
@@ -359,7 +386,7 @@ individual moves autonomously - we move as one.
 
 
 24 weeks had fault lines which we have analysed ad infinitum. It also had
-genius. One place it did work was in this aspect: People did not ask to be old
+genius. One place it did work was in this aspect: People did not ask to be told
 what to do -- they did it. David Pinto helped to sustain the minimal awareness
 of what others were doing. His role was to point to the obvious. He would
 regularly ground the collective by doing so, drawing attention to the NOW.
@@ -520,11 +547,11 @@ simply not used to it and can find it uncomfortable. So to be able to signal the
   src="http://farm4.static.flickr.com/3284/2965024699_9f9e9e2af3_m.jpg"
   alt=""style="border:solid 0px #000000;" /></a><span style="font-size:.9em;margin-top:0;"><br /> <a href="http://www.flickr.com/photos/jimmydavao/2965024699/"></a>by <a href="http://www.flickr.com/people/jimmydavao/">jimpg2</a><br /></span> </div>
 
-energetic state without having to go into a lot of verbal detail about emotions, could mean that
-you can get a rough sense of where everyone is in terms of their energy. In
-actual practice, somehow the use of a number seems to serve as a trigger for people to be able to then say
-more. It takes the pressure off and allows people to expand a little further
-after stating a number.
+energetic state without having to go into a lot of verbal detail about emotions,
+could mean that you can get a rough sense of where everyone is in terms of their
+energy. In actual practice, somehow the use of a number seems to serve as a
+trigger for people to be able to then say more. It takes the pressure off and
+allows people to expand a little further after stating a number.
 
 **Why would you want to know how people are?**
 
