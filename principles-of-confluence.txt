@@ -160,31 +160,33 @@ I read his `foundational essay
 that my brain literally leapt in consciousness as I read it.
 
 it helped to show how self-organisation needs the right kind of governance - and
-his model articulates p2p Governance, ownership and production. In p2p governance, *maximising options
-available* is the aim. It is anti-credentialist: anyone can put forward an
-option. In contrast to the a priori selection of options, in p2p options are
-selected a posteriori. Their validation is communal. I.e. acceptance happens
-after the fact or execution. Also, in contrast to panoptism, we have holoptism:
-where everything is visible to everyone. It is not possible for me to summarise
-it properly in two paragraphs and I recommend reading the `foundational essay
+his model articulates p2p Governance, ownership and production. In p2p
+governance, *maximising options available* is the aim. It is anti-credentialist:
+anyone can put forward an option. In contrast to the a priori selection of
+options, in p2p options are selected a posteriori. Their validation is communal.
+I.e. acceptance happens after the fact or execution. Also, in contrast to
+panoptism, we have holoptism: where everything is visible to everyone. It is not
+possible for me to summarise it properly in two paragraphs and I recommend
+reading the `foundational essay
 <http://integralvisioning.org/article.php?story=p2ptheory1>`_. There is a wiki
-dedicated to sharing knowledge on p2p. The topic is huge, well re-searched and an
-asset to our society. I thank Michel Bauwens on his work in this realm.
+dedicated to sharing knowledge on p2p. The topic is huge, well re-searched and
+an asset to our society. I thank Michel Bauwens on his work in this realm.
 
 The open-source models of software production have helped me to understand some
-of the dynamics that occurred within Pioneers of Change from 2006 onwards. To
-start with we had an open-source model of knoweldge sharing around process
-design. The need further down the line to finance the activity of the executive
-group led to the creation of a sub group of Associates which operated with
-different principles to the network. Tensions arose between the sub group and
-larger group and the nature of the network as a whole underwent a strong shift.
-I asked Michel Bauwens to comment on my experience and based on my rough
-articulation of the situation he indicated the social contract between the sub
-group and the main group seemed not to have been successfully structured. The
-larger group must perceive the benefits of the existence of the commercial group
-as worthwhile enough for its activities to be commercialised. The preception of
-what is being received must outweight what is being given. This is a
-conversation which is very important and which did not happen.
+of the dynamics that I had noticed within various networks. To start with there
+was an open-source model of knoweldge sharing. The need further down the line
+improve the flow of finances to the support the existence of the network led to
+the creation of a sub group which operated with different principles to the
+network but using the same brand name. I saw tensions arise between the sub
+group and network and the nature of the networks themselves undergo a strong
+shift. I asked Michel Bauwens to comment on my experience and based on my rough
+articulation of this pattern I had seen emerge. He indicated that in these cases
+the social contract between the sub group and the main group seemed not to have
+been successfully structured. The larger group must perceive the benefits of the
+existence of the commercial group as worthwhile enough for its activities to be
+commercialised. The perception of what is being received by the network must
+outweigh the perception of what is being given. This is a conversation which is
+very important.
 
 .. raw:: html
 
