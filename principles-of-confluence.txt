@@ -169,8 +169,8 @@ panoptism, we have holoptism: where everything is visible to everyone. It is not
 possible for me to summarise it properly in two paragraphs and I recommend
 reading the `foundational essay
 <http://integralvisioning.org/article.php?story=p2ptheory1>`_. There is a wiki
-dedicated to sharing knowledge on p2p. The topic is huge, well re-searched and
-an asset to our society. I thank Michel Bauwens on his work in this realm.
+dedicated to sharing knowledge on p2p. The topic is huge, well researched and
+an asset to our society. I thank Michel Bauwens for his work in this realm.
 
 The open-source models of software production have helped me to understand some
 of the dynamics that I had noticed within various networks. To start with there
@@ -490,8 +490,10 @@ state of blindness. The collective is not guided by a false decision.
 
 **How decisioning happened**
 
-*  Servane set a tone: "No more talk about the glass cieling. Let us just get on
-   with it". She also had put her 'projection' of the Manifesto up for all to see.
+* Servane set a tone: "Let us not be deterred by the notion of a glass ceiling.
+   Let us just take the next step forward". This served as a call to action and
+   was encouraging. She also had put her 'projection' of the Manifesto up for
+   all to see.
 
 *  We had a decisioning cycle -- for the duration of the event. People expressed
    their positive intentions in regard to this manifesto. 
