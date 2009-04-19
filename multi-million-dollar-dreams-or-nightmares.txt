@@ -6,7 +6,11 @@ Multi-Million Dollar Dreams or Nightmares?
 
 .. raw:: html
 
-  <div style="float:right;margin-left:10px;margin-bottom:0px;"><a href="http://www.flickr.com/photos/wandering_angel/333564707/" title="photo sharing"><img src="http://farm1.static.flickr.com/141/333564707_0b5cebf9e2.jpg" alt="" style="border:solid 0px #000000;" /></a><br /><span style="font-size:.9em;margin-top:0;"><a href="http://www.flickr.com/photos/wandering_angel/333564707/">Hidden Spring</a></span></div>
+  <div style="float:left;margin-right:10px;margin-bottom:0px;margin-top:5px"><a
+  href="http://www.flickr.com/photos/wandering_angel/333564707/" title="photo
+  sharing"><img
+  src="http://farm1.static.flickr.com/141/333564707_0b5cebf9e2.jpg" alt=""
+  style="border:solid 0px #000000; "height=300" /></a><br /><span style="font-size:.9em;margin-top:0;float:right"><a href="http://www.flickr.com/photos/wandering_angel/333564707/">Hidden Spring</a></span></div>
 
 Something happened that led me to realise I must do something to address the
 insanity in the way that people are responding to the financial changes afoot.
@@ -22,8 +26,6 @@ global changes in our financial systems. I don't think that money is his real
 issue. If it were, what figure do you reckon would bring these individuals real
 inner security?
 
-.. more
-
 I notice that despite my income being irregular since 2001 when I left the
 corporate world, I have a deep sense of trust in my financial future. It has
 enabled me to take larger risks than a lot of my contemparies and as a result I
@@ -31,6 +33,8 @@ am able to do the work I love. I rarely look for work, it seems to find me
 instead. I notice that solutions come when one is in a certain mindset. And that
 you can create an upward-spiral of events just as if you are in the wrong
 mindset, the opposite can happen.
+
+.. more
 
 .. class:: sidebox
 
