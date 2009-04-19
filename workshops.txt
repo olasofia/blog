@@ -9,7 +9,7 @@ An Overview of Workshops, Seminars and Events on Offer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * `Evolution Lounge`_
-* `Calendar of Events <events.html>`_
+* `Calendar of Events <calendar.html>`_
 
 .. raw:: html
 
