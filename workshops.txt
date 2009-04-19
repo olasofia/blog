@@ -8,9 +8,73 @@ Upcoming Workshops
 An Overview of Workshops, Seminars and Events on Offer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* `Inner Wealth Seminar`_
 * `Evolution Lounge`_
 * `Calendar of Events <events.html>`_
+
+.. raw:: html
+
+  <br>
+
+Evolution Lounge
+----------------
+
+.. raw:: html
+
+  <div class="float-right"><a
+  href="evolution-lounge-urban-guerrilla-peer-coaching.html" title="Evolution
+  Lounge"><img
+  src="http://farm4.static.flickr.com/3624/3370715093_2d01c43402.jpg"
+  width="400px" height="300px"
+  alt="Evolution Lounge"
+  /></a><br /><div class="image-caption">Find out
+  more about <a
+  href="evolution-lounge-urban-guerrilla-peer-coaching.html">Evolution Lounge</a></div></div>
+
+.. epigraph::
+
+ "Coaching meets social art meets urban warrior training"
+
+Evolution Lounge is a new form of group coaching that takes place in public
+spaces. It involves peer coaching and practical training in getting insights
+from chaos and from the physical environment. It is about getting answers on the
+go, from the very city we live in.
+
+Evolution Lounges take place every **Wednesday** at the new Kings Cross
+International Train Station. (More details on booking)
+
+.. class:: booking
+
+ +--------------+----------+----------------+
+ | Location     | Time     | Cost           |
+ +==============+==========+================+
+ | Kings Cross  | 5-6pm    | £15  |bk|      |
+ +--------------+----------+----------------+
+
+
+.. raw:: html
+
+  <style type="text/css">
+    .epigraph { margin-left
+      margin: 22px 40px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      color:#575757;
+      padding: 0 50px;
+      background: transparent url("http://tav.github.com/static/gfx/blockquote.gif") no-repeat 0 0;
+    }
+    .float-right { margin-top: 30px; }
+    table.booking { margin-top: 30px; }
+    .booking tbody tr td { white-space: nowrap; text-align: center;}
+    table.docutils thead tr th { background-color: #fff; color: #7D0808;
+    text-align: center; }
+    table.docutils tbody tr td:first-child { text-align: center; }
+  </style>
+
+.. |bk| raw:: html
+
+  &nbsp;&nbsp;<a href="http://evolutionloungekingscross.eventbrite.com"><img
+  src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
+
 
 .. raw:: html
 
@@ -64,80 +128,5 @@ purpose, join us for these 3 intense days in the lovely Hoxton Hotel.
   &nbsp;&nbsp;<a href="http://innerwealth.eventbrite.com"><img
   src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
 
-.. raw:: html
 
-  <br>
-
-Evolution Lounge
-----------------
-
-.. raw:: html
-
-  <div class="float-right"><a
-  href="evolution-lounge-urban-guerrilla-peer-coaching.html" title="Evolution
-  Lounge"><img
-  src="http://farm4.static.flickr.com/3624/3370715093_2d01c43402.jpg"
-  width="400px" height="300px"
-  alt="Evolution Lounge"
-  /></a><br /><div class="image-caption">Find out
-  more about <a
-  href="evolution-lounge-urban-guerrilla-peer-coaching.html">Evolution Lounge</a></div></div>
-
-.. epigraph::
-
- "Coaching meets social art meets urban warrior training"
-
-Evolution Lounge is a new form of group coaching that takes place in public
-spaces. It involves peer coaching and practical training in getting insights
-from chaos and from the physical environment. It is about getting answers on the
-go, from the very city we live in.
-
-Evolution Lounges take place every **Wednesday** in various locations. Choose
-one that suits you:
-
-.. class:: booking
-
- +--------------+----------+----------------+
- | Location     | Time     | Cost           |
- +==============+==========+================+
- | Canary Wharf | 1-2pm    | £20  |bc|      |
- +--------------+----------+----------------+
- | Kings Cross  | 5-6pm    | £15  |bk|      |
- +--------------+----------+----------------+
- | Brixton	    | 7-8pm    | £10  |bb|      |
- +--------------+----------+----------------+
-
-.. raw:: html
-
-  <style type="text/css">
-    .epigraph { margin-left
-      margin: 22px 40px;
-      margin-top: 40px;
-      margin-bottom: 40px;
-      color:#575757;
-      padding: 0 50px;
-      background: transparent url("http://tav.github.com/static/gfx/blockquote.gif") no-repeat 0 0;
-    }
-    .float-right { margin-top: 30px; }
-    table.booking { margin-top: 30px; }
-    .booking tbody tr td { white-space: nowrap; text-align: center;}
-    table.docutils thead tr th { background-color: #fff; color: #7D0808;
-    text-align: center; }
-    table.docutils tbody tr td:first-child { text-align: center; }
-  </style>
-
-.. |bc| raw:: html
-
-  &nbsp;&nbsp;<a href="http://evolutionloungecanarywharf.eventbrite.com"><img
-  src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
-
-.. |bk| raw:: html
-
-  &nbsp;&nbsp;<a href="http://evolutionloungekingscross.eventbrite.com"><img
-  src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
-
-.. |bb| raw:: html
-
-  &nbsp;&nbsp;<a href="http://evolutionloungebrixton.eventbrite.com"><img
-  src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
 
