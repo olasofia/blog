@@ -17,6 +17,7 @@ to the `available dates and bookings. <workshops.html#inner-wealth-seminar>`_ Or
 feel free to read about what led this seminar to come into being `here
 <multi-million-dollar-dreams-or-nightmares.html>`_
 
+.. more
 
 .. raw:: html
 
