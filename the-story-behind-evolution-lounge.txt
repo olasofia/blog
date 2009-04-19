@@ -4,28 +4,19 @@ The Story Behind Evolution Lounge
 
 :X-Created: [2009-03-17, 07:14]
 
-* `What is Evolution Lounge?`_
-* `Being Your Own First Customer; How it Was Born`_
-* `The Twist, and The Blessing of the Elders`_
-* `Filming and Capturing it.`_
-* `Open-Source Toolbox -- the Emergence of a Social Technology Cookbook`_
-* `Evolution Lounge Presentation <evolution-lounge-urban-guerrilla-peer-coaching.html>`_
-* `Available Dates and Bookings. <workshops.html#evolution-lounge>`_ 
 
 .. raw:: html
 
   <br />
-  <div style="float:right;margin-left:10px;margin-top:5px;margin-bottom:10px;"><a
+  <div style="float:right;margin-left:10px;margin-top:10px;margin-bottom:10px;"><a
   href="http://www.flickr.com/photos/tensafefrogs/3159186394/" title="photo
   sharing"><img
   src="http://farm4.static.flickr.com/3110/3159186394_8a9da2bce6_m.jpg" alt=""
-  style="border:solid 0px #000000;" /></a><br/><span style="font-size:.9em;margin-top:0;"><a
+  style="border:solid 0px #000000;" /></a><br/><span style="font-size:.9em;margin-top:0;float:right"><a
   href="http://www.flickr.com/photos/tensafefrogs/3159186394/">Rooftop</a></span> </div>
 
 
-What is Evolution Lounge?
--------------------------
-It is a form of peer-coaching, guerilla-style taking place on Wednesdays in
+Evolution Lounge is a form of peer-coaching, guerilla-style taking place on Wednesdays in
 various locations around London. Guerilla-style, because it happens in public
 spaces, in the places that are more associated with stress and craziness rather
 than sources of insight and answers. Because those are the kinds of experiences
@@ -33,6 +24,17 @@ that we want to transform.
 
 It helps us to access the wisdom available from everyone present. It establishes
 the collective as coach.
+
+
+.. more
+
+* `Being Your Own First Customer; How it Was Born`_
+* `The Twist, and The Blessing of the Elders`_
+* `Filming and Capturing it.`_
+* `Open-Source Toolbox -- the Emergence of a Social Technology Cookbook`_
+* `Evolution Lounge Presentation <evolution-lounge-urban-guerrilla-peer-coaching.html>`_
+* `Available Dates and Bookings. <workshops.html#evolution-lounge>`_ 
+
 
 Being Your Own First Customer; How it Was Born
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
