@@ -17,15 +17,14 @@ The Story Behind Evolution Lounge
 
 
 Evolution Lounge is a form of peer-coaching, guerilla-style taking place on
-Wednesdays in London. Guerilla-style, because it happens in a public space; in a
-place that is more associated with stress and craziness rather than a source of
-insight and answers, because those are the kinds of experiences that we want to
-transform.
+Wednesdays in London. "Guerilla-style", because it happens public spaces;
+usually associated with stress and craziness. Why? So that we can actually
+practice transforming chaos into answers, in the streets, on the go.
 
 .. epigraph::
 
-  Evolution Lounge helps us to access the wisdom available from everyone present.
-  It establishes the collective as coach.
+  Evolution Lounge helps us to access the wisdom available from everyone and
+  everything present. It establishes the collective as coach.
 
 .. raw:: html
 
