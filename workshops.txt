@@ -80,53 +80,7 @@ International Train Station. (More details on booking)
 
   <br>
 
-Inner Wealth Seminar
---------------------
 
-.. raw:: html
-
-  <div class="float-right"><a
-  href="inner-wealth-seminar-cut-through-illusion-create-wealth.html" title="Inner Wealth
-  Seminar"><img
-  src="http://farm4.static.flickr.com/3548/3397156124_f92c26f435_m.jpg"
-  width="400px" height="300px" alt="Inner Wealth"
-  /></a><br /><div class="image-caption">Find out
-  more about the <a
-  href="inner-wealth-seminar-cut-through-illusion-create-wealth.html">Inner Wealth Seminar</a></div></div>
-
-.. epigraph::
-
- "It's time to play the game of trust"
-
-
-A 3-Day seminar that enables participants to gain control of their perception in
-financial affairs.
-
-With the changing markets, as we transition from an industrialised economy to a
-networked economy, the future is not yet defined. The challenge is to be very
-present to what is happening but to be able to respond from a point of power.
-
-This practical seminar will enable you to do so as you will connect with your
-own deeper purpose and learn to master the art of clear perception and
-discernment.
-
-If you want to be able to navigate the changes with clearly, calmy and with
-purpose, join us for these 3 intense days in the lovely Hoxton Hotel.
-
-
-.. class:: booking
-
- +--------------+--------------+--------------------------------+
- | Location     | Dates        | Cost                           |
- +==============+==============+================================+
- | Hoxton Hotel | 17-19 April  | £595 (£450 Early Bird)   |be|  |
- +--------------+--------------+--------------------------------+
-
-
-.. |be| raw:: html
-
-  &nbsp;&nbsp;<a href="http://innerwealth.eventbrite.com"><img
-  src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
 
 
 
