@@ -1,0 +1,81 @@
+===========
+Past Events
+===========
+
+:X-Created: [2009-03-15, 15:33]
+:X-Type:    Plain
+
+Workshops, Seminars and Events from the Past
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* `Inner Wealth Seminar`_
+
+.. raw:: html
+
+  <br>
+  <style type="text/css">
+    .epigraph { margin-left
+      margin: 22px 40px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      color:#575757;
+      padding: 0 50px;
+      background: transparent url("http://tav.github.com/static/gfx/blockquote.gif") no-repeat 0 0;
+    }
+    .float-right { margin-top: 30px; }
+    table.booking { margin-top: 30px; }
+    .booking tbody tr td { white-space: nowrap; text-align: center;}
+    table.docutils thead tr th { background-color: #fff; color: #7D0808;
+    text-align: center; }
+    table.docutils tbody tr td:first-child { text-align: center; }
+  </style>
+
+.. raw:: html
+
+  <br>
+
+Inner Wealth Seminar
+--------------------
+
+.. raw:: html
+
+  <div class="float-right"><a
+  href="inner-wealth-seminar-cut-through-illusion-create-wealth.html" title="Inner Wealth
+  Seminar"><img
+  src="http://farm4.static.flickr.com/3548/3397156124_f92c26f435_m.jpg"
+  width="400px" height="300px" alt="Inner Wealth"
+  /></a><br /><div class="image-caption">Find out
+  more about the <a
+  href="inner-wealth-seminar-cut-through-illusion-create-wealth.html">Inner Wealth Seminar</a></div></div>
+
+.. epigraph::
+
+ "It's time to play the game of trust"
+
+
+A 3-Day seminar that enables participants to gain control of their perception in
+financial affairs.
+
+With the changing markets, as we transition from an industrialised economy to a
+networked economy, the future is not yet defined. The challenge is to be very
+present to what is happening but to be able to respond from a point of power.
+
+This practical seminar will enable you to do so as you will connect with your
+own deeper purpose and learn to master the art of clear perception and
+discernment.
+
+If you want to be able to navigate the changes with clearly, calmy and with
+purpose, join us for these 3 intense days in the lovely Hoxton Hotel.
+
+
+.. class:: booking
+
+ +--------------+--------------+----------------------------+
+ | Location     | Dates        | Cost                       |
+ +==============+==============+============================+
+ | Hoxton Hotel | 17-19 April  | £595 (£450 Early Bird)     |
+ +--------------+--------------+----------------------------+
+
+
+
+
