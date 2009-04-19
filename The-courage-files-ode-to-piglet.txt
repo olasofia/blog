@@ -4,14 +4,6 @@ The Courage Files: Ode to Piglet
 
 :X-Created: [2009-04-15, 09:58]
 
-.. raw:: html
-
-  <div style="float:left;margin-right:10px;margin-bottom:10px;margin-top:30px"> <a
-  href="http://www.flickr.com/photos/olasofia/3447262940/"
-  title="photosharing"><img src="http://farm4.static.flickr.com/3356/3447262940_46fabc84cd_m.jpg" alt=""
-  style="border:solid 0px #000000;" /></a> <br /> <span
-  style="font-size:.9em;margin-top:0;"> </span> </div> <br />
-
 
 Who would have thought that little Piglet in Winne the Pooh would be a symbol of
 courage?
@@ -22,9 +14,19 @@ the "uncarved block" in Taoist philisophy. Pooh just *is*. He meets life with
 simplicity and a straightforward attitude. As a result he is able to be
 sponteneous and is essentially happy. A teacher for all of us!
 
-.. class:: sidebox
+.. raw:: html
 
-  Courage is loud, bold and boisterous. It is also silent, shaky, and hyper-sensitive.
+  <div style="float:right;margin-left:20px;margin-bottom:10px;margin-top:25px"> <a
+  href="http://www.flickr.com/photos/olasofia/3447262940/"
+  title="photosharing"><img src="http://farm4.static.flickr.com/3413/3453367897_31c94dc73e.jpg?v=0" alt=""
+  style="border:solid 0px #000000;"width=250"/></a> <span style="font-size:.9em;margin-top:0;"> </span> </div>
+
+.. epigraph::
+
+ 'When you wake up in the morning, Pooh,' said Piglet at last, 'what's the
+ first thing you say to yourself?' 'What's for breakfast?' said Pooh. 'What do
+ you say, Piglet?' 'I say, I wonder what's going to happen exciting today?' said
+ Piglet. Pooh nodded thoughtfully.'It's the same thing,' he said.
 
 In the story of Winne the Pooh, we get to know Piglet as a jittery, 'Very Small
 Animal'. He seems quite insignificant compared to the other characters -- an
@@ -32,18 +34,6 @@ endearing frightened little thing. In his second book, "The Te of Piglet"
 Benjamin Hoff shows us how Piglet is actually the one who manages to go beyond
 his fears and limitations. Instead of regretting his smallness, he manages to
 *apply* it for others. He thus becomes a very different 'Very Small Animal'. 
-
-.. raw:: html
-
-  <div style="float:left;margin-right:10px;margin-bottom:0px;"> <img
-  src="http://farm4.static.flickr.com/3571/3447262904_496ab4f65b_m.jpg" alt=""
-  style="border:solid 0px #000000;" /><span
-  style="font-size:.9em;margin-top:0;">  </span> </div>
-
-.. epigraph::
-
- "Piglet slid up to Pooh from behind, "Pooh," he whispered. "Yes Piglet"? "Oh
- nothing", said Piglet taking Pooh by his paw, "I just wanted to be sure of you!"
 
 
 .. raw:: html
@@ -54,15 +44,9 @@ his fears and limitations. Instead of regretting his smallness, he manages to
 "Poem from Pooh to Piglet"
 --------------------------
 
-.. raw:: html
-
-  <div style="float:right;margin-left:0px;margin-top:255px;"><img
-  src="http://farm4.static.flickr.com/3656/3446449165_647b2dd8b1_m.jpg" alt=""
-  style="border:solid 0px #000000;" /> <span style="font-size:.9em;margin-top:0;"> </span> </div>
-
 .. epigraph::
 
-  "Animal so shy and small,
+  Animal so shy and small,
   dreaming you were bold and tall.
   You hesitate, all sensitive,
   waiting for a chance to live.
@@ -88,12 +72,17 @@ his fears and limitations. Instead of regretting his smallness, he manages to
   And the pride you'll feel inside,
   is not the kind that makes you fall.
   It's the kind of pride that recognises,
-  the biggness found in being small."
+  the biggness found in being small.
 
-I first read this poem in 1993. It touched my heart and has lived inside me since. 
+I first read this poem in 1993. It touched my heart and has lived inside me ever
+since. 
 
 The poem has a profound message in it. In Benjamin Hoff's words: " 'Te' means virtue and in the way of
 Piglet, the first thing we need to do is to recognize and trust our own inner nature, and not lose sight of it. In each of us there is something "Special" and that we need to keep!"
+
+.. class:: sidebox
+
+  Courage is loud, bold and boisterous. It is also silent, shaky, and hyper-sensitive.
 
 Many people do not quite realise what it is that
 they bring to the world and spend years trying to be something that doesnt
@@ -106,10 +95,6 @@ a lot of dithering. When you are wondering whether to make a brave move, absorb
 the wise words of Pooh and let your spirit be moved. Find in yourself the Te of
 Piglet.
 
-
-.. epigraph::
-
- "Whatever you can do or dream you can, begin it. Boldness has genius, power and magic in it." Goethe.
 
 .. raw:: html
 
