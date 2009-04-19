@@ -16,14 +16,29 @@ The Story Behind Evolution Lounge
   href="http://www.flickr.com/photos/tensafefrogs/3159186394/">Rooftop</a></span> </div>
 
 
-Evolution Lounge is a form of peer-coaching, guerilla-style taking place on Wednesdays in
-various locations around London. Guerilla-style, because it happens in public
-spaces, in the places that are more associated with stress and craziness rather
-than sources of insight and answers. Because those are the kinds of experiences
-that we want to transform.
+Evolution Lounge is a form of peer-coaching, guerilla-style taking place on
+Wednesdays in London. Guerilla-style, because it happens in a public space; in a
+place that is more associated with stress and craziness rather than a source of
+insight and answers, because those are the kinds of experiences that we want to
+transform.
 
-It helps us to access the wisdom available from everyone present. It establishes
-the collective as coach.
+.. epigraph::
+
+  Evolution Lounge helps us to access the wisdom available from everyone present.
+  It establishes the collective as coach.
+
+.. raw:: html
+
+  <style type="text/css">
+    .epigraph { margin-left
+      margin: 22px 40px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      color:#575757;
+      padding: 0 50px;
+      background: transparent url("http://tav.github.com/static/gfx/blockquote.gif") no-repeat 0 0;
+    }
+  </style>
 
 
 .. more
@@ -35,6 +50,10 @@ the collective as coach.
 * `Evolution Lounge Presentation <evolution-lounge-urban-guerrilla-peer-coaching.html>`_
 * `Available Dates and Bookings. <workshops.html#evolution-lounge>`_ 
 
+
+.. raw:: html
+
+  <br />
 
 Being Your Own First Customer; How it Was Born
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
