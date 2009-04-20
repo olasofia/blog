@@ -5,23 +5,15 @@ About Sofia
 :X-Created: [2009-03-21, 00:37]
 :X-Type:    Plain
 
-:Abstract:
+.. raw:: html
 
-  Sofia is a community builder, career coach, social process facilitator, mediator and social technologist.
+  <div class="float-right" title="Sofia Bustamante" <img
+  src="http://farm4.static.flickr.com/3661/3456458577_f112a87c5c_m.jpg"
+  style="margin-top:5px" "height=255px" alt="Sofia Bustamante" /> </div>
 
-  She is also a latin dancer, carnival of change pioneer (someone who believes
-  life can be lived as a carnival, that together change can be
-  undertaken as a dance, and that we can dare to write our own futures), lover of The
-  Work by Byron Katie, warrior of light, poet, general social misfit and monkey. 
+.. class:: sidebox
 
-  How do you sum up a person with a few words? The answer is -- you can't. One
-  approach that you can take is to play with different mediums to communicate different
-  angles on your persona. Then you can build up a 'rich picture' of yourself. Above is the description I use
-  on the various social networking sites. I do have a CV buried somewhere that I
-  (rarely) use. Generally, I use the S-Curves diagram and also a 'bio': a few paragraphs that
-  I then customise for different audiences. One can also use art and crafts to
-  go 3-D :-) I recommend using at least two methods. That way you can cater for
-  different cognitive styles.
+How do you sum up a person with a few words? The answer is, you can't. We are all more than just a few words on a page/. We can, however get close, and arrive at a definition that is "good enough for now".
 
 .. |follow-sofia| raw:: html
  
@@ -38,29 +30,54 @@ About Sofia
   href="http://github.com/olasofia"><img
   src="http://tav.github.com/static/gfx/github-icon.png" alt="GitHub" class="absmiddle" /></a>
 
-.. contents:: Table of Contents
-              :backlinks: none
-
 |follow-sofia|
+
+
+* `Me as a case study`_
+* `Whole Person S-Curve`_
+* `About Sofia and Turn up the Courage`_
+* `What I actually do`_
+* `Me or We? A Swarm Collaboration Model`_
+* `My Background`_
+* `Turn up the Courage Newsletter`_
 
 .. raw:: html
 
-  <form name="ccoptin" align="right" action="http://ui.constantcontact.com/d.jsp"
-							target="_blank" method="post"> <table
-							bgcolor="lightyellow" border="1" bordercolor="black"
-							cellpadding="3" cellspacing="0"> <tr> <td
-							align="right"><font size=2
-							face="Verdana,Arial,Helvetica">Join the <b>Turn up
-							the Courage</b> mailing list </font></td> </tr> <tr>
-							<td align="right"><font size=2
-							face="Verdana,Arial,Helvetica"><b>Email:</b> <input
-							type=text name="ea" size=25> <input type=hidden
-							name="m" value="1100976585733"> <input type=hidden
-							name="p" value="oi"> <input type=submit name="go"
-							value="Go"> </font></td> </tr> </table> </form>
-							<p><br> 
-  <!-- BEGIN: Constant Contact HTML for OptIn Tag  --> <center> </center> <!--
-							End: Constant Contact HTML for OptIn Tag --> </p> </TD>
+  <br />
+
+
+Me as a case study
+------------------
+Thank you for popping by! My task here is to introduce myself :-) I thought I
+would do so by using myself as a case study in **how to communicate who you
+are/what you do** -- when there are often many different aspects to that. You may
+have a "portfolio career" and yet, something will necessarily connect it all
+together. **How can you make this task simple for yourself?**
+
+.. epigraph::
+
+  Sofia is a community builder. She does this through career coaching,
+  facilitation, mediation and nurturing social
+  innovation"
+
+  She is *also* a latin dancer, "carnival of change" pioneer (someone who
+  believes life can be lived as a carnival, that together change can be
+  undertaken as a dance, and that we can dare to write our own futures), lover
+  of `The Work by Byron Katie <http://www.thework.com>`_, `warrior of light
+  <the-courage-files-warriors-of-the-light-keep-the-spark-in-their-eyes.html>`_,
+  poet, general social misfit and monkey.
+
+
+How do you sum up a person with a few words? The answer is, you can't. We are all more than just a few words on a page/website. We can, however get close, and arrive at a definition that is "good enough for now".
+
+One approach that you can take, is to play with different mediums to communicate different angles on your persona. This way you can build up a 'rich picture' of yourself. This works very nicely when all the angles are based on a deep connection to the *spirit* of your life and work. Congruence appears. It all adds up!
+
+Above is the description I use on the various social networking sites. I do have a CV buried somewhere (that I rarely use). Generally, I refer people to the S-Curves diagram (below) and I also send/post a 'bio' (a few paragraphs that I then customise for different audiences). One can also use art and crafts to express in one's core gifts through sculpture or handicrafts. 
+
+I recommend using at least two methods. That way you can cater for differing
+personal styles within an audience and thereby generate a "richer picture" of
+who you are.
+
 
 .. raw:: html
 
@@ -69,7 +86,7 @@ About Sofia
   href="http://www.flickr.com/photos/jystewart/2406770479/" title="photo
   sharing"><img
   src="http://farm3.static.flickr.com/2375/2406770479_bab6543ce7_m.jpg" alt=""
-  /></a><span style="font-size:.9em;"><br />by <a href="http://www.flickr.com/people/jystewart/">jystewart</a><br /></span></div>
+  /></a><span style="font-size:.9em "align="right"><br />by <a href="http://www.flickr.com/people/jystewart/">jystewart</a><br /></span></div>
 
 Whole Person S-Curve
 --------------------
@@ -177,7 +194,7 @@ started my career at British Airways, where I moved from systems analysis and
 project management to learning and facilitation. I then left BA to move more
 fully into people and organisational development, and, after a number of small
 roles across various industries, have run a business as a coach, facilitator and
-change agent since 2005. I has a balance of analytical and intuitive skills
+change agent since 2005. I have a balance of analytical and intuitive skills
 and experience, straddling engineering and business analysis, to personal and
 team development
 
@@ -191,7 +208,46 @@ Each part of my journey has contributed to achieving my deepest longing and my
 business offering is based on this.
 
 
+Turn up the Courage Newsletter
+------------------------------
 
+If you would like to stay in touch, feel free to sign up here to receive
+updates, and articles. Your details will ONLY be used to send the newsletter to
+you.
+
+.. raw:: html
+
+  <form name="ccoptin" align="right" action="http://ui.constantcontact.com/d.jsp"
+							target="_blank" method="post"> <table
+							bgcolor="lightyellow" border="1" bordercolor="black"
+							cellpadding="3" cellspacing="0"> <tr> <td
+							align="right"><font size=2
+							face="Verdana,Arial,Helvetica">Join the <b>Turn up
+							the Courage</b> mailing list </font></td> </tr> <tr>
+							<td align="right"><font size=2
+							face="Verdana,Arial,Helvetica"><b>Email:</b> <input
+							type=text name="ea" size=25> <input type=hidden
+							name="m" value="1100976585733"> <input type=hidden
+							name="p" value="oi"> <input type=submit name="go"
+							value="Go"> </font></td> </tr> </table> </form>
+							<p><br> 
+  <!-- BEGIN: Constant Contact HTML for OptIn Tag  --> <center> </center> <!--
+							End: Constant Contact HTML for OptIn Tag --> </p> </TD>
+
+
+
+.. raw:: html
+
+  <style type="text/css">
+    .epigraph { margin-left
+      margin: 22px 40px;
+      margin-top: 40px;
+      margin-bottom: 40px;
+      color:#575757;
+      padding: 0 50px;
+      background: transparent url("http://tav.github.com/static/gfx/blockquote.gif") no-repeat 0 0;
+    }
+  </style>
 
 
 
