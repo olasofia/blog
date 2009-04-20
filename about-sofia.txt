@@ -33,7 +33,7 @@ How do you sum up a person with a few words? The answer is, you can't. We are al
 |follow-sofia|
 
 
-* `Me as a case study`_
+* `Me as a Case Study`_
 * `Whole Person S-Curve`_
 * `About Sofia and Turn up the Courage`_
 * `What I actually do`_
@@ -46,7 +46,7 @@ How do you sum up a person with a few words? The answer is, you can't. We are al
   <br />
 
 
-Me as a case study
+Me as a Case Study
 ------------------
 Thank you for popping by! My task here is to introduce myself :-) I thought I
 would do so by using myself as a case study in **how to communicate who you
