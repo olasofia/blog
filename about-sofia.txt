@@ -13,7 +13,7 @@ About Sofia
 
 .. class:: sidebox
 
-How do you sum up a person with a few words? The answer is, you can't. We are all more than just a few words on a page/. We can, however get close, and arrive at a definition that is "good enough for now".
+How do you sum up a person with a few words? The answer is, you can't. We are all more than just a few words on a page. We can, however get close, and arrive at a definition that is "good enough for now".
 
 .. |follow-sofia| raw:: html
  
