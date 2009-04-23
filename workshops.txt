@@ -8,8 +8,52 @@ Upcoming Workshops
 An Overview of Workshops, Seminars and Events on Offer
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* `Free: Thriving-Careers Coaching Hotline Call`_
 * `Evolution Lounge`_
 * `Calendar of Events <calendar.html>`_
+
+.. raw:: html
+
+  <br>
+
+Free: Thriving-Careers Coaching Hotline Call
+--------------------------------------------
+
+.. raw:: html
+ 
+  <div class="float-right">
+  <object width="425" height="344"><param name="movie"
+  value="http://www.youtube.com/v/CDmgLyT_-PM&hl=en&fs=1"></param><param
+  name="allowFullScreen" value="true"></param><param name="allowscriptaccess"
+  value="always"></param><embed
+  src="http://www.youtube.com/v/CDmgLyT_-PM&hl=en&fs=1"
+  type="application/x-shockwave-flash" allowscriptaccess="always"
+  allowfullscreen="true" width="425" height="344"></embed></object> </div>
+
+
+Get answers to your burning career questions, and hear the low-down on the best advice out there:
+
+.. epigraph::
+
+  Crowd-sourced answers from top coaches + current advice customised to those
+  those on the call  
+
+  Thrive in your career, during the current changing global context...
+
+The Thriving-Careers Coaching Hotline Call take place every **Tuesday eveing** via
+tele-conference. (More details after the simple registration process)
+
+.. class:: booking
+
+ +-----------------+----------+----------------+
+ | Location        | Time     | Cost           |
+ +=================+==========+================+
+ | Tele-Conference | 7-8pm    | Free  |bf|     |
+ +-----------------+----------+----------------+
+
+.. |bf| raw:: html
+
+  &nbsp;&nbsp;<a href="http://thrivingcareerscoachinghotline.eventbrite.com"><img src="http://www.eventbrite.com/static/images/button_ext/sign_me_up.gif" border="0"></a>
 
 .. raw:: html
 
@@ -76,9 +120,7 @@ International Train Station. (More details on booking)
   src="http://www.eventbrite.com/static/images/button_ext/buy_a_ticket_2.gif" /></a>
 
 
-.. raw:: html
 
-  <br>
 
 
 
