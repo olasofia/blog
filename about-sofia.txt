@@ -48,11 +48,12 @@ How do you sum up a person with a few words? The answer is, you can't. We are al
 
 Me as a Case Study
 ------------------
-Thank you for popping by! My task here is to introduce myself :-) I thought I
-would do so by using myself as a case study in **how to communicate who you
-are/what you do** -- when there are often many different aspects to that. You may
-have a "portfolio career" and yet, something will necessarily connect it all
-together. **How can you make this task simple for yourself?**
+Thank you for popping by! My name is Sofia Bustamante and my task here is to
+introduce myself :-) I thought I would do so by using myself as a case study in
+**how to communicate who you are/what you do** -- when there are often many
+different aspects to that. You may have a "portfolio career" and yet, something
+will necessarily connect it all together. **How can you make this task simple
+for yourself?**
 
 .. epigraph::
 
@@ -70,9 +71,20 @@ together. **How can you make this task simple for yourself?**
 
 How do you sum up a person with a few words? The answer is, you can't. We are all more than just a few words on a page/website. We can, however get close, and arrive at a definition that is "good enough for now".
 
-One approach that you can take, is to play with different mediums to communicate different angles on your persona. This way you can build up a 'rich picture' of yourself. This works very nicely when all the angles are based on a deep connection to the *spirit* of your life and work. Congruence appears. It all adds up!
+One approach that you can take, is to play with different mediums to communicate
+different angles on your persona. This way you can build up a 'rich picture' of
+yourself. This works very nicely when all the angles are based on a deep
+connection to the *spirit* of your life and work. Congruence appears. It all
+adds up!
 
-Above is the description I use on the various social networking sites. I do have a CV buried somewhere (that I rarely use). Generally, I refer people to the S-Curves diagram (below) and I also send/post a 'bio' (a few paragraphs that I then customise for different audiences). One can also use art and crafts to express in one's core gifts through sculpture or handicrafts. 
+Above is the short bio I use on the various social networking sites. I do have a
+CV buried somewhere (that I rarely use). I will be using my Linked-In profile as
+a digital CV (particularly once it is updated). Generally, I refer people to the
+S-Curves diagram (below) and I also send/post a longer 'bio' (a few paragraphs
+or roughly 300 words that I then customise for different audiences). One can
+also use art and crafts to express one's core gifts through sculpture or
+handicrafts. These can be part of the processe of arriving at the right
+metaphors that inform our expressions.
 
 I recommend using at least two methods. That way you can cater for differing
 personal styles within an audience and thereby generate a "richer picture" of
@@ -109,7 +121,7 @@ enables people to recover their true contribution and express it with dignity.
 .. raw:: html
 
   <div class="float-left"><a title="Whole Person S-Curve"><img
-   src="http://www.turnupthecourage.com/images/76.jpeg?id=1183558079"
+   src="http://archive.turnupthecourage.com/images/76.jpeg?id=1183558079"
    width="600px" height="500px "style="border:solid 2px #FFFFFF;" /></a><br /> <div class="image-caption">Sofia's
    Whole-Person S-Curve: How Turn up the Courage Came To Be</div></div>
 
